@@ -30,8 +30,8 @@ Comparing Java and JavaScript:
 
 
 Conclusion:
-Java: A strict language that keeps things organized with clear rules about memory.
 
+Java: A strict language that keeps things organized with clear rules about memory.
 JavaScript: A more flexible language that makes it easier to work with changing amounts of data.
 Feel free to ask if you need more changes!
 
